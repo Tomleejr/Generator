@@ -1,2 +1,2 @@
 # Generator
-Exec. Intelligence Briefing Generater
+Broadcast Briefing Generator
