@@ -1,2 +1,2 @@
-# Generater
+# Generator
 Exec. Intelligence Briefing Generater
